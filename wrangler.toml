@@ -1,0 +1,7 @@
+name = "my-app"
+type = "javascript"
+account_id = "0a9b0cb97a252b841f93ca5acb63b3bd"
+workers_dev = true
+route = ""
+zone_id = ""
+redirect="follow"
